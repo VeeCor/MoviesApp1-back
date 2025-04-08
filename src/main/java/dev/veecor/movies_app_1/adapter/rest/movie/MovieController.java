@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/v1/movies")
+@RequestMapping("/rest-api/movies")
 @RequiredArgsConstructor
 public class MovieController {
     private final FindAllMoviesInbound findAllMoviesInbound;

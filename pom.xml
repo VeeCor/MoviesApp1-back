@@ -11,7 +11,7 @@
 	<groupId>dev.veecor</groupId>
 	<artifactId>movies-app-1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movies-app-1</name>
+	<name>movies-app-1-back</name>
 
 	<properties>
 		<java.version>17</java.version>
